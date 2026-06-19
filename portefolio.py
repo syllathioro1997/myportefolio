@@ -375,7 +375,7 @@ if menu == "🌿 Accueil":
     col1, col2 = st.columns([3, 2])
     
     with col1:
-        st.markdown("## ✨ À propos de moi")
+        st.markdown("## ")
         st.markdown(BIO)
         
         st.markdown("## 🌟 Mes valeurs")
