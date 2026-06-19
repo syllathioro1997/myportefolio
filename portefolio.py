@@ -334,7 +334,7 @@ st.markdown(f"""
     <div style='display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap;'>
         <div>
             <p style='color: #667eea; font-size: 0.9rem; margin: 0;'>{salutation} !</p>
-            <h1 style='margin: 0; font-size: 2.5rem;'>{PRENOM} {{NOM}}</h1>
+            <h1 style='margin: 0; font-size: 2.5rem;'>{PRENOM} {NOM}</h1>
             <p style='font-size: 1.1rem; color: #666; margin-top: 0.3rem;'>{TITRE_ACCROCHE}</p>
         </div>
         <div style='text-align: center;'>
